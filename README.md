@@ -1,5 +1,17 @@
 # l2a3-cow-hut-backend-assignment-MhMunna12
 l2a3-cow-hut-backend-assignment-MhMunna12 created by GitHub Classroom
+# Auth (User)
+__1:__
+api/v1/auth/signup(POST)  
+__2:__
+api/v1/auth/login(POST)  
+__3:__
+api/v1/auth/refresh-token(POST)  
+# Auth (Admin)
+__1:__
+api/v1/admin/create-admin(POST)   
+__2:__
+api/v1/admin/login(POST)
 # Users  
 __1:__
 api/v1/users/auth/signup(POST)  
